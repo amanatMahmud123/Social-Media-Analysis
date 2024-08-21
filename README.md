@@ -25,8 +25,8 @@ The primary objective is to enhance user engagement, expand the platform's reach
 
 ## 📅 Dataset Overview
 - **Data source:** Internet
-- [**Dataset Link**](https://github.com/amanat-mahmud/social_medial_analysis/tree/main/Dataset)
-- [**Data model**](https://github.com/amanat-mahmud/social_medial_analysis/blob/main/data%20model.png)
+- [**Dataset Link**](https://github.com/amanatMahmud123/Social-Media-Analysis/tree/main/Dataset)
+- [**Data model**](https://github.com/amanatMahmud123/Social-Media-Analysis/blob/main/data%20model.png)
 
 ## 🔎 Key Findings
 1. #beautiful is the most used hashtag, closely followed by #festival and #socialmedia
@@ -53,10 +53,10 @@ The primary objective is to enhance user engagement, expand the platform's reach
 
 ## 📌 Project Presentation
 ### Video Presentation
-[![Social Media Analysis Presentation](https://github.com/amanat-mahmud/social_medial_analysis/blob/main/cover.png)](https://www.linkedin.com/posts/amanat-mahmud_beautiful-festival-socialmedia-activity-7222843175541858304-l4FY?utm_source=share&utm_medium=member_desktop)
+[![Social Media Analysis Presentation](https://github.com/amanatMahmud123/Social-Media-Analysis/blob/main/cover.png)](https://www.linkedin.com/posts/amanat-mahmud_beautiful-festival-socialmedia-activity-7222843175541858304-l4FY?utm_source=share&utm_medium=member_desktop)
 
 ### Slides
-The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/social_medial_analysis/blob/main/slide.pdf)
+The detailed presentation slides for this project can be found [here](https://github.com/amanatMahmud123/Social-Media-Analysis/blob/main/slide.pdf)
 
 ## 🧠 Project Learnings
 1. Creating new schema and table.
